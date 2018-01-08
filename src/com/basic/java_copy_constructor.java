@@ -13,8 +13,8 @@ public class java_copy_constructor
 	
 	java_copy_constructor(java_copy_constructor s1)
 	{
-		 id = s1.id;
-		 N1 = s1.N1;
+		 this.id = s1.id;
+		 this.N1 = s1.N1;
 		 return;
 	}
 	

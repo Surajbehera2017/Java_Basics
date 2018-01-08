@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="D:/Suraj/Share_Folder_Location/172.25.192.204/Suraj/CI_Automation/Library/selenium-server-standalone-2.53.0.jar"/>
 	<classpathentry kind="lib" path="D:/Suraj/Selemnium_TC/UPM/SUPPORTING JARS/freemarker-2.3.15.jar"/>
 	<classpathentry kind="lib" path="D:/Suraj/Selemnium_TC/UPM/SUPPORTING JARS/extentreports-java-2.10.jar"/>
 	<classpathentry kind="lib" path="D:/Suraj/Selemnium_TC/UPM/SUPPORTING JARS/joda-time-2.1.jar"/>
@@ -22,5 +21,7 @@
 	<classpathentry kind="lib" path="D:/Suraj/AUTOMATION/Jars/poi-bin-3.17-beta1-20170701/poi-3.17-beta1/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="D:/Suraj/AUTOMATION/Jars/poi-bin-3.17-beta1-20170701/poi-3.17-beta1/lib/junit-4.12.jar"/>
 	<classpathentry kind="lib" path="D:/Suraj/AUTOMATION/Jars/poi-bin-3.17-beta1-20170701/poi-3.17-beta1/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Suraj/AUTOMATION/Jars/selenium-server-standalone-3.4.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

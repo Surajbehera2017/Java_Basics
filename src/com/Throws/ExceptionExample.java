@@ -1,4 +1,4 @@
-package Throws;
+package com.Throws;
 
 public class ExceptionExample {
 

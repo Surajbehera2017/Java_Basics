@@ -6,7 +6,7 @@
       <class name="com.generic.Report">
         <methods>
           <include name="beforeSuite"/>
-          <include name="test1"/>
+          <include name="test2"/>
           <include name="aftersuite"/>
         </methods>
       </class> <!-- com.generic.Report -->
